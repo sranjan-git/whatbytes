@@ -7,12 +7,6 @@ export const ComingSoon = () => {
         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
           Page under development.
         </h1>
-        {/* <p className="text-lg text-muted-foreground">
-          We&apos;re working hard to bring you something amazing.{" "}
-          <Link href="/" className="text-slate-600 underline">
-            Stay tuned!
-          </Link>
-        </p> */}
       </div>
     </main>
   );
