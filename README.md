@@ -1,6 +1,6 @@
 # WhatBytes Dashboard
 
-https://github.com/user-attachments/assets/3d47a5a5-0c3e-408e-87c7-97881e82f131
+https://github.com/user-attachments/assets/0541adb1-522c-4b99-98b4-6910bc6caee6
 
 This project is a responsive, professional dashboard for WhatBytes, designed to display user statistics, skill test results, and internship data. Built with Next.js and Material UI, the dashboard includes multiple interactive charts, a sidebar, and various components for presenting analytical data.
 
