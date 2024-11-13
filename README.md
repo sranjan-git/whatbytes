@@ -30,8 +30,8 @@ To get started with this project, make sure you have [Node.js](https://nodejs.or
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/whatbytes-dashboard.git
-    cd whatbytes-dashboard
+    git clone https://github.com/yourusername/whatbytes.git
+    cd whatbytes
     ```
 
 2. Install dependencies:
